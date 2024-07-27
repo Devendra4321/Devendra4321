@@ -3,6 +3,8 @@
 
 - 🔭 I’m completed **MCA at D.Y.Patil Institute of Master of Computer Application and Management Akurdi, Pune**
 
+- 👨🏻‍💻 I'm currently working at **Kalibroida Technology Solutions PVT LTD**
+
 - 🌱 I’m currently learning **Angular Js**
 
 - 💬 Ask me about **HTML, CSS, Javascript, React js, Express js, Node js, MongoDB**
