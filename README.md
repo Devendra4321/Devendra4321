@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devendra Bhole</h1>
 <h3 align="center">Student | Developer | Programmer | Passionate | Fastlearner</h3>
 
-- 🔭 I’m currently pursuing **MCA at D.Y.Patil Institute of Master of Computer Application and Management Akurdi, Pune**
+- 🔭 I’m completed **MCA at D.Y.Patil Institute of Master of Computer Application and Management Akurdi, Pune**
 
-- 🌱 I’m currently learning **React Js and Node Js**
+- 🌱 I’m currently learning **Angular Js**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Java**
+- 💬 Ask me about **HTML, CSS, Javascript, React js, Express js, Node js, MongoDB**
 
 - 📫 How to reach me **devendrabhole3369@gmail.coom**
 
